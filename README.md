@@ -1,7 +1,7 @@
 # BalanceConnectee
 
 
-***** French Version *****
+***** Version Française *****
 
 Projet réalisé pendant mon DUT GEII à Rennes avec Nathan SANCHIDRIAN.
 Ce projet a été réalisé en Python sur Raspberry Pi. 
